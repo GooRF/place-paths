@@ -1,4 +1,4 @@
 # Place - Paths
 
 ## What is it?
-Place Paths is an r/place clone that, instead of having individual pixels allows using mathematical equations to draw lines like on a graph.
+Place Paths is an r/place clone, but on the globe. Your location determines where you can draw.
